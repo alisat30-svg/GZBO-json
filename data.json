@@ -3,49 +3,49 @@
     {
       "id": 1,
       "tit_ar": "\nاستمارة المقابلة الامنية",
-      "tit_en": "en",
+      "tit_en": "Security Interview Form",
       "content_ar": "تتيح خدمة الاستمارة الأمنية إمكانية التقديم الإلكتروني للحصول على هويات دخول المنطقة الخضراء بكل سهولة تتطلب الخدمة ملء البيانات الدقيقة وإرفاق المستمسكات الرسمية المطلوبة لضمان سرعة المعالجة والتدقيق الأمني.",
-      "content_en": "en",
+      "content_en": "The security form service allows for easy electronic application to obtain Green Zone entry IDs. The service requires filling in accurate data and attaching the required official documents to ensure fast processing and security checks.",
       "link": "https://gz-amn.ur.gov.iq/"
     },
     {
       "id": 2,
       "tit_ar": "استمارة الموافقة الخاصة",
-      "tit_en": "en",
+      "tit_en": "Special approval form",
       "content_ar": "نهدف من خلال هذا النظام الرقمي إلى تسهيل الإجراءات الإدارية وتقليل وقت الانتظار للمراجعين والموظفين.",
-      "content_en": "en",
+      "content_en": "Through this digital system, we aim to facilitate administrative procedures and reduce waiting times for clients and employees.",
       "link": "https://gzspecial.ur.gov.iq/"
     },
     {
       "id": 3,
       "tit_ar": "اصدار هويات المنطقة الخضراء",
-      "tit_en": "en",
+      "tit_en": "Issuance of Green Zone IDs",
       "content_ar": "يرجى التأكد من صحة جميع المعلومات المدخلة، حيث يتم إرسال إشعارات التحديث عبر التطبيق مباشرة.",
-      "content_en": "en",
+      "content_en": "Please ensure that all information entered is correct, as update notifications are sent directly through the application.",
       "link": "https://gzoffice.ur.gov.iq/"
     },
     {
       "id": 4,
       "tit_ar": "استمارة المعلومات الامنية للشركات",
-      "tit_en": "en",
+      "tit_en": "Companies Security Information Form",
       "content_ar": "تخضع جميع الطلبات للمراجعة من قبل الجهات المختصة لضمان أمن وسلامة المنطقة وفق الضوابط المعمول بها.",
-      "content_en": "en",
+      "content_en": "All applications are subject to review by the competent authorities to ensure the safety and security of the area in accordance with applicable regulations.",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=26"
     },
     {
       "id": 5,
       "tit_ar": "تعليمات ملء استمارة هوية المنطقة الخضراء للموافقات الخاصة",
-      "tit_en": "en",
-      "content_ar": "رجى من السادة المراجعين الراغبين بالحصول على هوية دخول المنطقة الخضراء (للموافقات الخاصة)، مشاهدة الفيديو التوضيحي عبر الرابط التالي: - ويتضمن الفيديو شرحًا تفصيليًا لخطوات ملء الاستمارة بشكل صحيح والتعليمات الواجب اتباعها، لضمان إتمام الإجراءات بانسيابية وتجنب أي تأخير في المعاملة. - نهيب بالجميع الالتزام بالتعليمات الموضحة تفاديًا لرفض الطلبات أو إعادتِها لغرض التصحيح.",
-      "content_en": "en",
+      "tit_en": "Instructions for filling out the Green Zone ID form for special approvals",
+      "content_ar": "يرجى من السادة المراجعين الراغبين بالحصول على هوية دخول المنطقة الخضراء (للموافقات الخاصة)، مشاهدة الفيديو التوضيحي عبر الرابط التالي: - ويتضمن الفيديو شرحًا تفصيليًا لخطوات ملء الاستمارة بشكل صحيح والتعليمات الواجب اتباعها، لضمان إتمام الإجراءات بانسيابية وتجنب أي تأخير في المعاملة. - نهيب بالجميع الالتزام بالتعليمات الموضحة تفاديًا لرفض الطلبات أو إعادتِها لغرض التصحيح.",
+      "content_en": "Applicants wishing to obtain a Green Zone entry card (for special approvals) are kindly requested to watch the explanatory video via the following link: - The video includes a detailed explanation of the steps for correctly filling out the form and the instructions that must be followed to ensure a smooth process and avoid any delays. - We urge everyone to adhere to the instructions provided to avoid application rejection or return for correction.",
       "link": "https://drive.google.com/file/d/14R0DAi0AxrCWBAX5-IXeVW36ASbzf1co/view"
     },
     {
       "id": 6,
       "tit_ar": "نموذج استثناء",
-      "tit_en": "en",
+      "tit_en": "ExceptionSample ",
       "content_ar": "نموذج الطلب الخاص بالحصول على استثناء باللون الاصفر لهوية المنطقة الخضراء - تملئ بصورة الكترونية",
-      "content_en": "en",
+      "content_en": "Application form for obtaining a yellow exemption for a green zone ID - to be filled out electronically",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=20"
     },
     {
@@ -53,7 +53,7 @@
       "tit_ar": "نموذج توقيع",
       "tit_en": "en",
       "content_ar": "النموذج الخاص بتغيير الكفيل او المخول الخاص بهويات المنطقة الخضراء...",
-      "content_en": "en",
+      "content_en": "The form for changing the sponsor or authorized representative for Green Zone IDs...",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=19"
     },
     {
@@ -61,7 +61,7 @@
       "tit_ar": "تصريح دخول",
       "tit_en": "en",
       "content_ar": "خدمة مقدمة من هويات المنطقة الخضراء لتنظيم دخول الزائرين لأكمال متطلبات اصدار الهوية",
-      "content_en": "en",
+      "content_en": "A service provided by Green Zone IDs to organize visitor entry to complete ID issuance requirements",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=18"
     }
   ],
@@ -69,30 +69,30 @@
     {
       "id": 1,
       "tit_ar": "ضوابط وتعليمات منح هويات للقطاع الخاص (المؤسسات الخاصة والمشاريع التجارية)",
-      "tit_en": "xxxx",
+      "tit_en": "Regulations and instructions for granting IDs to the private sector (private institutions and commercial projects)",
       "details_ar": "الشركات والأنشطة التجارية التي يكون مقرها داخل المنطقة الخضراء تمنح هوية واحدة ذات اللون الأزرق، وهويتان ذات اللون الأخضر، وتمنح حسب الحاجة وحجم العمل، بالإضافة إلى الهوية ذات اللون الأصفر أو الرصاصي. المتطلبات: إثبات مقر الشركة داخل المنطقة الخضراء من خلال عقد إيجار العقار مصدق رسميًا من قبل كاتب العدل أو سند العقار. إثبات تسجيل الشركة رسميًا بشهادة صادرة من وزارة الداخلية أو مسجل الشركات في وزارة التجارة. الاستحصال على ترخيص أمني خاص بالعمل في المنطقة الخضراء من الجهات الرسمية ذات العلاقة. مصادقة دائرة العقارات على عقد الإيجار أو السند والأسماء المقدمة للحصول على هوية المنطقة الخضراء. ثانيًا: الشركات التي يقع مقرها خارج المنطقة الخضراء تمنح هوية واحدة ذات اللون الأزرق، وتمنح حسب الحاجة، بالإضافة إلى الهوية ذات اللون الأخضر أو الأصفر أو الرصاصي. المتطلبات: عقود الشركة المبرمة مع الجهات المستفيدة الموجودة داخل المنطقة الخضراء. إثبات تسجيل الشركة رسميًا بشهادة صادرة من وزارة الداخلية أو مسجل الشركات في وزارة التجارة. الاستحصال على ترخيص أمني خاص بالعمل في المنطقة الخضراء من الجهات الرسمية ذات العلاقة. تأييد من الجهة المتعاقد معها بصحة التعاقد والاستمرارية في العمل في الوقت الحاضر. الشركات الكبرى تمنح عددًا مضافًا من الهويات حسب العقود المبرمة مع الحكومة العراقية. ثالثًا: رسوم القطاع الخاص تستوفى الرسوم حسب الآتي: 5,000,000 دينار للهوية ذات اللون الأزرق. 3,000,000 دينار للهوية ذات اللون الأخضر. 1,000,000 دينار للهوية ذات اللون الأصفر. 500,000 دينار للهوية ذات اللون الرصاصي. يتم دفع المبالغ عن طريق الدفع الإلكتروني أو بصك مصدق ومعنون إلى مكتب رئيس الوزراء / الإيرادات المالية.",
-      "details_en": "zzz"
+      "details_en": "Companies and businesses located within the Green Zone are granted one blue ID card and two green ID cards, issued as needed and based on business size, in addition to a yellow or gray ID card. Requirements: Proof of company location within the Green Zone through a notarized property lease agreement or property deed. Proof of official company registration with a certificate issued by the Ministry of Interior or the Companies Registrar at the Ministry of Commerce. Obtaining a special security permit to operate in the Green Zone from the relevant official authorities. Real estate department approval of the lease agreement or deed and the names submitted for the Green Zone ID card. Second: Companies located outside the Green Zone are granted one blue ID card, issued as needed, in addition to a green, yellow, or gray ID card. Requirements: Company contracts concluded with beneficiaries located within the Green Zone. Proof of official company registration with a certificate issued by the Ministry of Interior or the Companies Registrar at the Ministry of Commerce. Obtaining a special security permit to operate in the Green Zone from the relevant official authorities. Confirmation from the contracting party of the validity of the contract and the continuity of current operations. Large companies are granted additional ID cards according to contracts signed with the Iraqi government. Third: Private sector fees are collected as follows: 5,000,000 Iraqi dinars for a blue ID card; 3,000,000 Iraqi dinars for a green ID card; 1,000,000 Iraqi dinars for a yellow ID card; and 500,000 Iraqi dinars for a gray ID card. Payments are made electronically or by certified check made payable to the Prime Minister's Office/Financial Revenues."
     },
     {
       "id": 2,
       "tit_ar": "الرسوم الخاصة بهويات المنطقة الخضراء للقطاع العام والخاص",
-      "tit_en": "xxxx",
+      "tit_en": "Fees for Green Zone IDs for the public and private sectors",
       "details_ar": "رسوم القطاع العام تُستوفى الرسوم من الفئات المذكورة أدناه بحسب لون الهوية وكما يأتي: اللون الأزرق: (100,000) مائة ألف دينار عراقي لسنة واحدة (200,000) مائتا ألف دينار عراقي لسنتين اللون الأخضر: (75,000) خمسة وسبعون ألف دينار عراقي لسنة واحدة (150,000) مائة وخمسون ألف دينار عراقي لسنتين الألوان الأصفر والرصاصي والبنفسجي: (50,000) خمسون ألف دينار عراقي للسنة أو السنتين وتشمل الفئات التالية: موظفي الدولة سكنة المنطقة الخضراء البعثات والهيئات الدبلوماسية الإعلاميين والصحفيين المنظمات غير الربحية رسوم القطاع الخاص تُستوفى الرسوم كما يلي: اللون الأزرق: (6,000,000) ستة ملايين دينار عراقي اللون الأخضر: (4,000,000) أربعة ملايين دينار عراقي اللون الأصفر: (2,000,000) مليونا دينار عراقي اللون الرصاصي: (1,000,000) مليون دينار عراقي آلية استيفاء الرسوم الدفع الإلكتروني (POS) رسوم أخرى الفقدان أو التلف: (75,000) خمسة وسبعون ألف دينار عراقي للقطاع العام (150,000) مائة وخمسون ألف دينار عراقي للقطاع الخاص وذلك بعد تزويد الجهة المعنية بقرار قضائي يثبت حالة الفقدان. محطة التصوير المتنقلة: (250,000) مائتان وخمسون ألف دينار عراقي رسوم إجراء VIP: (50,000) خمسون ألف دينار عراقي رسوم تبديل اللون أو الاسم: (25,000) خمسة وعشرون ألف دينار عراقي الإعفاءات يُعفى حملة الجوازات الدبلوماسية من الأجانب من رسوم استيفاء هويات دخول المنطقة الخضراء.",
-      "details_en": "zzz"
+      "details_en": "Public Sector Fees: Fees are collected from the categories listed below according to ID color, as follows: Blue: 100,000 Iraqi Dinars for one year; 200,000 Iraqi Dinars for two years; Green: 75,000 Iraqi Dinars for one year; 150,000 Iraqi Dinars for two years; Yellow, Gray, and Purple: 50,000 Iraqi Dinars for one or two years. This includes the following categories: Government employees; Residents of the Green Zone; Diplomatic Missions and Organizations; Media Professionals and Journalists; Non-Profit Organizations. Private Sector Fees: Fees are collected as follows: Blue: 6,000,000 Iraqi Dinars; Green: 4,000,000 Iraqi Dinars; Yellow: 2,000,000 Iraqi Dinars; Gray: 1,000,000 Iraqi Dinars. Fee Collection Mechanism: Electronic Payment (POS); Other Fees Loss or Damage: (75,000) Seventy-five thousand Iraqi dinars for the public sector, (150,000) One hundred and fifty thousand Iraqi dinars for the private sector, after providing the relevant authority with a court order proving the loss. Mobile Photography Station: (250,000) Two hundred and fifty thousand Iraqi dinars. VIP Procedure Fee: (50,000) Fifty thousand Iraqi dinars. Color or Name Change Fee: (25,000) Twenty-five thousand Iraqi dinars. Exemptions: Holders of diplomatic passports are exempt from fees for obtaining Green Zone entry permits."
     },
     {
       "id": 3,
       "tit_ar": "الحقوق والامتيازات والصلاحيات",
-      "tit_en": "en",
+      "tit_en": "Rights, privileges, and powers",
       "details_ar": "الحقوق والامتيازات والصلاحيات يتمتع حامل الهوية الخاصة بالقطاع الخاص داخل المنطقة الخضراء بالحقوق والامتيازات التالية: الدخول والخروج من وإلى المنطقة الخضراء وفق الضوابط المحددة. استخدام المرافق العامة والخدمات المتاحة داخل المنطقة. إمكانية تسجيل المركبات الخاصة وفق الضوابط النافذة. الصلاحيات الممنوحة لحاملي الهوية تشمل: حرية التنقل داخل المنطقة وفق المسارات المحددة. استخدام مواقف السيارات المخصصة لحاملي الهوية. الاستفادة من الخدمات التجارية والصحية داخل المنطقة. الالتزامات: الالتزام بالضوابط والتعليمات الصادرة من الجهات المختصة. عدم إساءة استخدام الهوية لأي غرض غير مصرح به. التعاون مع الجهات الأمنية في حال طلب ذلك.",
-      "details_en": "en"
+      "details_en": "Rights, Privileges, and Powers: Holders of private sector identity cards within the Green Zone enjoy the following rights and privileges: Entry to and exit from the Green Zone in accordance with established regulations. Use of public facilities and services available within the zone. Registration of private vehicles in accordance with applicable regulations. Powers granted to identity card holders include: Freedom of movement within the zone according to designated routes. Use of parking spaces designated for identity card holders. Access to commercial and health services within the zone. Obligations: Compliance with regulations and instructions issued by the competent authorities. Refraining from misusing the identity card for any unauthorized purpose. Cooperating with security authorities when requested."
     },
     {
       "id": 4,
       "tit_ar": "ضوابط وتعليمات منح هويات لساكني المنطقة الخضراء",
-      "tit_en": "en",
+      "tit_en": "Regulations and instructions for granting IDs to residents of the Green Zone",
       "details_ar": "ضوابط وتعليمات منح هويات لساكني المنطقة الخضراء تمنح هويات ساكني المنطقة الخضراء عن طريق مديرية العقارات التابعة إلى مكتب رئيس الوزراء، وحسب ما يلي: • هوية ذات اللون البنفسجي لكل شخص يبلغ من العمر 18 سنة فما دون. • هوية ذات اللون الأزرق لكل فريق عسكري متقاعد. • هوية ذات اللون الأخضر تُمنح إلى: • السادة النواب المنتهية دورتهم. • مدراء المدارس ورياض الأطفال والمستوصف الصحي الموجود داخل المنطقة الخضراء. • كل من: مدير عام، خبير أقدم، عامل خارج المنطقة، مفتش عام أو ما يعادله، متقاعد، عميد عسكري متقاعد، عضو جمعية وطنية، وكيل وزير متقاعد، مستشار متقاعد، لواء عسكري متقاعد، عضو مجلس حكم (حسب درجتهم). • أقارب السادة: رئيس الجمهورية، رئيس مجلس الوزراء، رئيس مجلس النواب ونوابه، رئيس مجلس القضاء الأعلى، من الساكنين معهم. • عضو من أعضاء المفوضية العليا المستقلة للانتخابات ممن يسكنون المنطقة الخضراء (هوية واحدة فقط لكل عضو للحماية). الرسوم: • تستوفى رسوم بمقدار 30,000 دينار للسنة الواحدة و 50,000 دينار للسنتين لكل هوية بجميع ألوانها. • تستوفى 40,000 دينار بدل ضائع",
-      "details_en": "en"
+      "details_en": "Regulations and Instructions for Issuing Green Zone Resident IDs: Green Zone resident IDs are issued by the Real Estate Directorate, which is under the Prime Minister's Office, as follows: • A purple ID for every person aged 18 and under. • A blue ID for every retired military officer. • A green ID is issued to: • Members of Parliament whose terms have expired. • Directors of schools, kindergartens, and health clinics located within the Green Zone. • Any of the following: Director General, Senior Expert, Employee from outside the Green Zone, Inspector General or equivalent, Retired, Retired Brigadier General, Member of the National Assembly, Retired Undersecretary, Retired Advisor, Retired Major General, Member of the Governing Council (according to their rank). • Relatives of the President of the Republic, the Prime Minister, the Speaker of Parliament and his deputies, and the Head of the Supreme Judicial Council, who reside with them. • Members of the Independent High Electoral Commission who reside in the Green Zone (only one ID per member for security purposes). Fees: • A fee of 30,000 dinars is charged for one year and 50,000 dinars for two years for each ID card, regardless of color. • A replacement fee of 40,000 dinars is charged for a lost ID card."
     }
   ],
   "notes": [
