@@ -51,7 +51,7 @@
     {
       "id": 7,
       "tit_ar": "نموذج توقيع",
-      "tit_en": "en",
+      "tit_en": "Signature form",
       "content_ar": "النموذج الخاص بتغيير الكفيل او المخول الخاص بهويات المنطقة الخضراء...",
       "content_en": "The form for changing the sponsor or authorized representative for Green Zone IDs...",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=19"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "tit_ar": "تصريح دخول",
-      "tit_en": "en",
+      "tit_en": "Entry permit",
       "content_ar": "خدمة مقدمة من هويات المنطقة الخضراء لتنظيم دخول الزائرين لأكمال متطلبات اصدار الهوية",
       "content_en": "A service provided by Green Zone IDs to organize visitor entry to complete ID issuance requirements",
       "link": "https://gzoffice.pmo.gov.iq/singleService?id=18"
