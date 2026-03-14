@@ -1,27 +1,35 @@
 {
   "serv": [
     {
-      "tit": "إصدار هوية جديدة",
-      "content": "متطلبات إصدار هوية جديدة للمنطقة الخضراء...",
+      "tit_ar": "إصدار هوية جديدة",
+      "tit_en": "Issue New ID",
+      "content_ar": "متطلبات إصدار هوية جديدة للمنطقة الخضراء تشمل تقديم المستمسكات الرسمية وصورة شخصية...",
+      "content_en": "Requirements for issuing a new Green Zone ID include submitting official documents and a personal photo...",
       "link": "https://example.com/apply"
     },
     {
-      "tit": "تجديد هوية",
-      "content": "خطوات تجديد الهوية المنتهية الصلاحية...",
+      "tit_ar": "تجديد هوية نافذة",
+      "tit_en": "Renew Valid ID",
+      "content_ar": "يجب تقديم طلب التجديد قبل 30 يوماً من تاريخ الانتهاء...",
+      "content_en": "Renewal requests must be submitted 30 days before the expiration date...",
       "link": ""
     }
   ],
   "info": [
     {
-      "tit": "ضوابط الدخول",
-      "details": "يمنع الدخول بمركبات غير مصرح لها..."
+      "tit_ar": "ضوابط الدخول من البوابات",
+      "tit_en": "Gate Entry Rules",
+      "details_ar": "يمنع الدخول بمركبات غير مصرح لها ومظللة بالكامل من جميع بوابات المنطقة الدولية.",
+      "details_en": "Entry with unauthorized and fully tinted vehicles is prohibited through all International Zone gates."
     }
   ],
   "notes": [
     {
-      "tit": "تحديث النظام",
+      "tit_ar": "تحديث النظام الإلكتروني",
+      "tit_en": "Electronic System Update",
       "date": "2026-03-15T10:00:00Z",
-      "note": "سيتم إيقاف النظام للصيانة يوم الجمعة القادم."
+      "note_ar": "سيتم إيقاف النظام للصيانة الدورية يوم الجمعة القادم لمدة ساعتين.",
+      "note_en": "The system will be down for scheduled maintenance next Friday for two hours."
     }
   ]
 }
