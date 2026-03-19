@@ -151,54 +151,6 @@
       "note_ar": "الاطلاع على رسوم الخدمات",
       "note_en": "en",
       "date": "2026-02-15T21:00:00.000Z"
-    },
-    {
-      "id": 8,
-      "tit_ar": "اعلان 8",
-      "tit_en": "en",
-      "note_ar": "تجريبي",
-      "note_en": "en",
-      "date": "2026-02-23T21:00:00.000Z"
-    },
-    {
-      "id": 9,
-      "tit_ar": "tttt",
-      "tit_en": "صث",
-      "note_ar": "صضصض",
-      "note_en": 123,
-      "date": "2026-02-23T21:00:00.000Z"
-    },
-    {
-      "id": 10,
-      "tit_ar": "nnnnxx",
-      "tit_en": "mmmxx",
-      "note_ar": "ddd",
-      "note_en": "2aas",
-      "date": "2026-02-23T21:00:00.000Z"
-    },
-    {
-      "id": 11,
-      "tit_ar": "see",
-      "tit_en": "ee",
-      "note_ar": "www",
-      "note_en": "www",
-      "date": "2026-02-24T21:00:00.000Z"
-    },
-    {
-      "id": 12,
-      "tit_ar": "اعلان جديد",
-      "tit_en": "note",
-      "note_ar": "سيتم تجديث النظام ",
-      "note_en": "update system",
-      "date": "2026-03-18T21:00:00.000Z"
-    },
-    {
-      "id": 13,
-      "tit_ar": "hhh",
-      "tit_en": "iii",
-      "note_ar": "jjj",
-      "note_en": "jjjj",
-      "date": "2026-03-18T21:00:00.000Z"
     }
   ]
 }
