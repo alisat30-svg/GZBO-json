@@ -183,6 +183,14 @@
       "note_ar": "www",
       "note_en": "www",
       "date": "2026-02-24T21:00:00.000Z"
+    },
+    {
+      "id": 12,
+      "tit_ar": "اعلان جديد",
+      "tit_en": "note",
+      "note_ar": "سيتم تجديث النظام ",
+      "note_en": "update system",
+      "date": "2026-03-18T21:00:00.000Z"
     }
   ]
 }
